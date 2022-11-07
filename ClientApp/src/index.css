@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 5% 5%;
+    background-color: hsl(215, 95%, 90%);
+}
